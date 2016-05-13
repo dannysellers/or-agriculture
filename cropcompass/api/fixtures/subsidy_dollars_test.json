@@ -1,0 +1,10132 @@
+[
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41000,
+      "subsidy_dollars": 36964230
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 2,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41000,
+      "subsidy_dollars": 6888961
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 3,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41000,
+      "subsidy_dollars": 6840216
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 4,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41000,
+      "subsidy_dollars": 2634237
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 5,
+    "fields": {
+      "commodity": "Apple",
+      "year": 2003,
+      "fips": 41000,
+      "subsidy_dollars": 2090428
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 6,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2003,
+      "fips": 41000,
+      "subsidy_dollars": 1524505
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 7,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41000,
+      "subsidy_dollars": 30565378
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 8,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41000,
+      "subsidy_dollars": 3781565
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 9,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41000,
+      "subsidy_dollars": 2313082
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 10,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41000,
+      "subsidy_dollars": 2147879
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 11,
+    "fields": {
+      "commodity": "Dry Pea",
+      "year": 2004,
+      "fips": 41000,
+      "subsidy_dollars": 480542
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 12,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2004,
+      "fips": 41000,
+      "subsidy_dollars": 360165
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 13,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41000,
+      "subsidy_dollars": 30498707
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 14,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41000,
+      "subsidy_dollars": 4254978
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 15,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41000,
+      "subsidy_dollars": 3483634
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 16,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2005,
+      "fips": 41000,
+      "subsidy_dollars": 2477317
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 17,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41000,
+      "subsidy_dollars": 546068
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 18,
+    "fields": {
+      "commodity": "Dry Pea",
+      "year": 2005,
+      "fips": 41000,
+      "subsidy_dollars": 342821
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 19,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41000,
+      "subsidy_dollars": 29687790
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 20,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41000,
+      "subsidy_dollars": 4858609
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 21,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41000,
+      "subsidy_dollars": 3512916
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 22,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41000,
+      "subsidy_dollars": 3173748
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 23,
+    "fields": {
+      "commodity": "Dry Pea",
+      "year": 2006,
+      "fips": 41000,
+      "subsidy_dollars": 358168
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 24,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2006,
+      "fips": 41000,
+      "subsidy_dollars": 189245
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 25,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41000,
+      "subsidy_dollars": 30752042
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 26,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41000,
+      "subsidy_dollars": 2303600
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 27,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41000,
+      "subsidy_dollars": 1144444
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 28,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41000,
+      "subsidy_dollars": 544473
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 29,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41000,
+      "subsidy_dollars": 170589
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 30,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2007,
+      "fips": 41000,
+      "subsidy_dollars": 56650
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 31,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41000,
+      "subsidy_dollars": 32610578
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 32,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41000,
+      "subsidy_dollars": 3511270
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 33,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41000,
+      "subsidy_dollars": 2369738
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 34,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41000,
+      "subsidy_dollars": 1154526
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 35,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2008,
+      "fips": 41000,
+      "subsidy_dollars": 114526
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 36,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2008,
+      "fips": 41000,
+      "subsidy_dollars": 49962
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 37,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41000,
+      "subsidy_dollars": 33926755
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 38,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41000,
+      "subsidy_dollars": 12000515
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 39,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41000,
+      "subsidy_dollars": 1650553
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 40,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41000,
+      "subsidy_dollars": 907977
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 41,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2009,
+      "fips": 41000,
+      "subsidy_dollars": 236134
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 42,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2009,
+      "fips": 41000,
+      "subsidy_dollars": 132165
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 43,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41000,
+      "subsidy_dollars": 28084113
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 44,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41000,
+      "subsidy_dollars": 1775303
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 45,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2010,
+      "fips": 41000,
+      "subsidy_dollars": 1529865
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 46,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41000,
+      "subsidy_dollars": 983970
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 47,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2010,
+      "fips": 41000,
+      "subsidy_dollars": 771820
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 48,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2010,
+      "fips": 41000,
+      "subsidy_dollars": 247977
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 49,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41000,
+      "subsidy_dollars": 34075353
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 50,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41000,
+      "subsidy_dollars": 1824032
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 51,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2011,
+      "fips": 41000,
+      "subsidy_dollars": 1392390
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 52,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41000,
+      "subsidy_dollars": 1155301
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 53,
+    "fields": {
+      "commodity": "Tree",
+      "year": 2011,
+      "fips": 41000,
+      "subsidy_dollars": 234269
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 54,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2011,
+      "fips": 41000,
+      "subsidy_dollars": 110168
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 55,
+    "fields": {
+      "commodity": "Canola",
+      "year": 2011,
+      "fips": 41000,
+      "subsidy_dollars": 81006
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 56,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2011,
+      "fips": 41000,
+      "subsidy_dollars": 46239
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 57,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41000,
+      "subsidy_dollars": 14079492
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 58,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41000,
+      "subsidy_dollars": 4666080
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 59,
+    "fields": {
+      "commodity": "Tree",
+      "year": 2012,
+      "fips": 41000,
+      "subsidy_dollars": 753135
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 60,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2012,
+      "fips": 41000,
+      "subsidy_dollars": 338771
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 61,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2012,
+      "fips": 41000,
+      "subsidy_dollars": 332351
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 62,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2012,
+      "fips": 41000,
+      "subsidy_dollars": 189327
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 63,
+    "fields": {
+      "commodity": "Canola",
+      "year": 2012,
+      "fips": 41000,
+      "subsidy_dollars": 111218
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 64,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2012,
+      "fips": 41000,
+      "subsidy_dollars": 15868
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 65,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41001,
+      "subsidy_dollars": 447332
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 66,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41001,
+      "subsidy_dollars": 390821
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 67,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41001,
+      "subsidy_dollars": 118809
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 68,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41001,
+      "subsidy_dollars": 364238
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 69,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41001,
+      "subsidy_dollars": 134411
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 70,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41001,
+      "subsidy_dollars": 10856
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 71,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41001,
+      "subsidy_dollars": 368935
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 72,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41001,
+      "subsidy_dollars": 112877
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 73,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41001,
+      "subsidy_dollars": 14757
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 74,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2006,
+      "fips": 41001,
+      "subsidy_dollars": 3592
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 75,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41001,
+      "subsidy_dollars": 347346
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 76,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41001,
+      "subsidy_dollars": 74214
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 77,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41001,
+      "subsidy_dollars": 5906
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 78,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41001,
+      "subsidy_dollars": 423166
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 79,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41001,
+      "subsidy_dollars": 407577
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 80,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41001,
+      "subsidy_dollars": 72726
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 81,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41001,
+      "subsidy_dollars": 442203
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 82,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41001,
+      "subsidy_dollars": 67139
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 83,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41001,
+      "subsidy_dollars": 6388
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 84,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41001,
+      "subsidy_dollars": 424964
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 85,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41001,
+      "subsidy_dollars": 67549
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 86,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41001,
+      "subsidy_dollars": 5459
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 87,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41001,
+      "subsidy_dollars": 570762
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 88,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41001,
+      "subsidy_dollars": 66828
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 89,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41001,
+      "subsidy_dollars": 7014
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 90,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2011,
+      "fips": 41001,
+      "subsidy_dollars": 279
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 91,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41001,
+      "subsidy_dollars": 221346
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 92,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2012,
+      "fips": 41001,
+      "subsidy_dollars": 1957
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 93,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41003,
+      "subsidy_dollars": 333238
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 94,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41003,
+      "subsidy_dollars": 95979
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 95,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2003,
+      "fips": 41003,
+      "subsidy_dollars": 21434
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 96,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41003,
+      "subsidy_dollars": 267666
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 97,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41003,
+      "subsidy_dollars": 47418
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 98,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41003,
+      "subsidy_dollars": 12904
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 99,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41003,
+      "subsidy_dollars": 267525
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 100,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41003,
+      "subsidy_dollars": 23709
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 101,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41003,
+      "subsidy_dollars": 16362
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 102,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2005,
+      "fips": 41003,
+      "subsidy_dollars": 2972
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 103,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41003,
+      "subsidy_dollars": 258561
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 104,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41003,
+      "subsidy_dollars": 94865
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 105,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41003,
+      "subsidy_dollars": 28300
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 106,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41003,
+      "subsidy_dollars": 2438
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 107,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41003,
+      "subsidy_dollars": 268360
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 108,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41003,
+      "subsidy_dollars": 10769
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 109,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41003,
+      "subsidy_dollars": 5378
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 110,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41003,
+      "subsidy_dollars": 3759
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 111,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41003,
+      "subsidy_dollars": 252321
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 112,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41003,
+      "subsidy_dollars": 10533
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 113,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41003,
+      "subsidy_dollars": 1547
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 114,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2008,
+      "fips": 41003,
+      "subsidy_dollars": 523
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 115,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41003,
+      "subsidy_dollars": 408981
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 116,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41003,
+      "subsidy_dollars": 201244
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 117,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41003,
+      "subsidy_dollars": 10941
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 118,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41003,
+      "subsidy_dollars": 482232
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 119,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41003,
+      "subsidy_dollars": 9476
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 120,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2010,
+      "fips": 41003,
+      "subsidy_dollars": 8472
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 121,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41003,
+      "subsidy_dollars": 542245
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 122,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41003,
+      "subsidy_dollars": 23920
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 123,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41003,
+      "subsidy_dollars": 1408
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 124,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41003,
+      "subsidy_dollars": 197216
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 125,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41003,
+      "subsidy_dollars": 52075
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 126,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2012,
+      "fips": 41003,
+      "subsidy_dollars": 10777
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 127,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41005,
+      "subsidy_dollars": 270885
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 128,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41005,
+      "subsidy_dollars": 133644
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 129,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2003,
+      "fips": 41005,
+      "subsidy_dollars": 11817
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 130,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2003,
+      "fips": 41005,
+      "subsidy_dollars": 5601
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 131,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41005,
+      "subsidy_dollars": 107053
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 132,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41005,
+      "subsidy_dollars": 53973
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 133,
+    "fields": {
+      "commodity": "Fish",
+      "year": 2004,
+      "fips": 41005,
+      "subsidy_dollars": 20820
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 134,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41005,
+      "subsidy_dollars": 99970
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 135,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41005,
+      "subsidy_dollars": 7452
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 136,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41005,
+      "subsidy_dollars": 7438
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 137,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41005,
+      "subsidy_dollars": 131074
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 138,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41005,
+      "subsidy_dollars": 102684
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 139,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41005,
+      "subsidy_dollars": 33249
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 140,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41005,
+      "subsidy_dollars": 2326
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 141,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41005,
+      "subsidy_dollars": 99322
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 142,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41005,
+      "subsidy_dollars": 13897
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 143,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41005,
+      "subsidy_dollars": 7348
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 144,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41005,
+      "subsidy_dollars": 1349
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 145,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41005,
+      "subsidy_dollars": 101481
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 146,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41005,
+      "subsidy_dollars": 7205
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 147,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2008,
+      "fips": 41005,
+      "subsidy_dollars": 2497
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 148,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41005,
+      "subsidy_dollars": 1305
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 149,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41005,
+      "subsidy_dollars": 269611
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 150,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41005,
+      "subsidy_dollars": 77858
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 151,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41005,
+      "subsidy_dollars": 5543
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 152,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2010,
+      "fips": 41005,
+      "subsidy_dollars": 134136
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 153,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41005,
+      "subsidy_dollars": 118128
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 154,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41005,
+      "subsidy_dollars": 110863
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 155,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41005,
+      "subsidy_dollars": 6505
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 156,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41005,
+      "subsidy_dollars": 1178
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 157,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41005,
+      "subsidy_dollars": 122762
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 158,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41005,
+      "subsidy_dollars": 8300
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 159,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41007,
+      "subsidy_dollars": 135262
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 160,
+    "fields": {
+      "commodity": "Fish",
+      "year": 2004,
+      "fips": 41007,
+      "subsidy_dollars": 23321
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 161,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41007,
+      "subsidy_dollars": 23255
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 162,
+    "fields": {
+      "commodity": "Fish",
+      "year": 2005,
+      "fips": 41007,
+      "subsidy_dollars": 18027
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 163,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2005,
+      "fips": 41007,
+      "subsidy_dollars": 476
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 164,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41007,
+      "subsidy_dollars": 83334
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 165,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41007,
+      "subsidy_dollars": 4225
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 166,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41007,
+      "subsidy_dollars": 95633
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 167,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2010,
+      "fips": 41007,
+      "subsidy_dollars": 4512
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 168,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41007,
+      "subsidy_dollars": 51607
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 169,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2003,
+      "fips": 41009,
+      "subsidy_dollars": 10651
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 170,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41009,
+      "subsidy_dollars": 3765
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 171,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2003,
+      "fips": 41009,
+      "subsidy_dollars": 2397
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 172,
+    "fields": {
+      "commodity": "Fish",
+      "year": 2004,
+      "fips": 41009,
+      "subsidy_dollars": 11828
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 173,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41009,
+      "subsidy_dollars": 9244
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 174,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41009,
+      "subsidy_dollars": 2162
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 175,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41009,
+      "subsidy_dollars": 16404
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 176,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41009,
+      "subsidy_dollars": 4212
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 177,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41009,
+      "subsidy_dollars": 2293
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 178,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2005,
+      "fips": 41009,
+      "subsidy_dollars": 1554
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 179,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41009,
+      "subsidy_dollars": 9866
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 180,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41009,
+      "subsidy_dollars": 2836
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 181,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41009,
+      "subsidy_dollars": 114
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 182,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2006,
+      "fips": 41009,
+      "subsidy_dollars": 13
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 183,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41009,
+      "subsidy_dollars": 3821
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 184,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41009,
+      "subsidy_dollars": 3441
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 185,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41009,
+      "subsidy_dollars": 1044
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 186,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41009,
+      "subsidy_dollars": 47
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 187,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41009,
+      "subsidy_dollars": 655
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 188,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41009,
+      "subsidy_dollars": 559
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 189,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2009,
+      "fips": 41009,
+      "subsidy_dollars": 1494
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 190,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41009,
+      "subsidy_dollars": 899
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 191,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41009,
+      "subsidy_dollars": 1224
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 192,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2012,
+      "fips": 41009,
+      "subsidy_dollars": 618
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 193,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2012,
+      "fips": 41009,
+      "subsidy_dollars": 465
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 194,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41011,
+      "subsidy_dollars": 492456
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 195,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41011,
+      "subsidy_dollars": 327506
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 196,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41011,
+      "subsidy_dollars": 60760
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 197,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2004,
+      "fips": 41011,
+      "subsidy_dollars": 28396
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 198,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41011,
+      "subsidy_dollars": 13090
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 199,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2005,
+      "fips": 41011,
+      "subsidy_dollars": 3824
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 200,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41011,
+      "subsidy_dollars": 3226
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 201,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2005,
+      "fips": 41011,
+      "subsidy_dollars": 1216
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 202,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41011,
+      "subsidy_dollars": 187193
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 203,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2006,
+      "fips": 41011,
+      "subsidy_dollars": 52903
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 204,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41011,
+      "subsidy_dollars": 7258
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 205,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41011,
+      "subsidy_dollars": 13764
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 206,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41011,
+      "subsidy_dollars": 3968
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 207,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41011,
+      "subsidy_dollars": 3226
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 208,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41011,
+      "subsidy_dollars": 81266
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 209,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2008,
+      "fips": 41011,
+      "subsidy_dollars": 4027
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 210,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41011,
+      "subsidy_dollars": 3226
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 211,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41011,
+      "subsidy_dollars": 495034
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 212,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2009,
+      "fips": 41011,
+      "subsidy_dollars": 6542
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 213,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41011,
+      "subsidy_dollars": 2811
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 214,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2010,
+      "fips": 41011,
+      "subsidy_dollars": 26441
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 215,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2010,
+      "fips": 41011,
+      "subsidy_dollars": 10498
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 216,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41011,
+      "subsidy_dollars": 2811
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 217,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41011,
+      "subsidy_dollars": 2811
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 218,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41011,
+      "subsidy_dollars": 196293
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 219,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41013,
+      "subsidy_dollars": 415289
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 220,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41013,
+      "subsidy_dollars": 187742
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 221,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41013,
+      "subsidy_dollars": 5224
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 222,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41013,
+      "subsidy_dollars": 145818
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 223,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41013,
+      "subsidy_dollars": 4842
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 224,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41013,
+      "subsidy_dollars": 154926
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 225,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41013,
+      "subsidy_dollars": 8607
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 226,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41013,
+      "subsidy_dollars": 6912
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 227,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41013,
+      "subsidy_dollars": 147071
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 228,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41013,
+      "subsidy_dollars": 7950
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 229,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2006,
+      "fips": 41013,
+      "subsidy_dollars": 186
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 230,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41013,
+      "subsidy_dollars": 140438
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 231,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41013,
+      "subsidy_dollars": 4720
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 232,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2007,
+      "fips": 41013,
+      "subsidy_dollars": 208
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 233,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41013,
+      "subsidy_dollars": 126131
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 234,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41013,
+      "subsidy_dollars": 3805
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 235,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2008,
+      "fips": 41013,
+      "subsidy_dollars": 184
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 236,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41013,
+      "subsidy_dollars": 144339
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 237,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41013,
+      "subsidy_dollars": 3255
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 238,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2009,
+      "fips": 41013,
+      "subsidy_dollars": 157
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 239,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41013,
+      "subsidy_dollars": 137115
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 240,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41013,
+      "subsidy_dollars": 2760
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 241,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2010,
+      "fips": 41013,
+      "subsidy_dollars": 133
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 242,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41013,
+      "subsidy_dollars": 224006
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 243,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41013,
+      "subsidy_dollars": 3450
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 244,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2011,
+      "fips": 41013,
+      "subsidy_dollars": 167
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 245,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41013,
+      "subsidy_dollars": 62084
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 246,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41015,
+      "subsidy_dollars": 239554
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 247,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2003,
+      "fips": 41015,
+      "subsidy_dollars": 94624
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 248,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2003,
+      "fips": 41015,
+      "subsidy_dollars": 52599
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 249,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2004,
+      "fips": 41015,
+      "subsidy_dollars": 25864
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 250,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41015,
+      "subsidy_dollars": 74288
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 251,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2005,
+      "fips": 41015,
+      "subsidy_dollars": 13820
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 252,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2006,
+      "fips": 41015,
+      "subsidy_dollars": 30830
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 253,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2006,
+      "fips": 41015,
+      "subsidy_dollars": 24448
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 254,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41015,
+      "subsidy_dollars": 21045
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 255,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41015,
+      "subsidy_dollars": 81423
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 256,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2008,
+      "fips": 41015,
+      "subsidy_dollars": 16872
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 257,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2009,
+      "fips": 41015,
+      "subsidy_dollars": 43059
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 258,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2007,
+      "fips": 41051,
+      "subsidy_dollars": 82
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 259,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2010,
+      "fips": 41015,
+      "subsidy_dollars": 31544
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 260,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2010,
+      "fips": 41015,
+      "subsidy_dollars": 4117
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 261,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2011,
+      "fips": 41015,
+      "subsidy_dollars": 3079
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 262,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41017,
+      "subsidy_dollars": 152425
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 263,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41017,
+      "subsidy_dollars": 41916
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 264,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41017,
+      "subsidy_dollars": 3327
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 265,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2003,
+      "fips": 41017,
+      "subsidy_dollars": 423
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 266,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2003,
+      "fips": 41017,
+      "subsidy_dollars": 43
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 267,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41017,
+      "subsidy_dollars": 31422
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 268,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41017,
+      "subsidy_dollars": 24551
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 269,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41017,
+      "subsidy_dollars": 2410
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 270,
+    "fields": {
+      "commodity": "Fish",
+      "year": 2004,
+      "fips": 41017,
+      "subsidy_dollars": 2183
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 271,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41017,
+      "subsidy_dollars": 27010
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 272,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41017,
+      "subsidy_dollars": 3375
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 273,
+    "fields": {
+      "commodity": "Fish",
+      "year": 2005,
+      "fips": 41017,
+      "subsidy_dollars": 2985
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 274,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41017,
+      "subsidy_dollars": 2304
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 275,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2005,
+      "fips": 41017,
+      "subsidy_dollars": 294
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 276,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41017,
+      "subsidy_dollars": 37968
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 277,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41017,
+      "subsidy_dollars": 35098
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 278,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41017,
+      "subsidy_dollars": 4533
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 279,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2006,
+      "fips": 41017,
+      "subsidy_dollars": 440
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 280,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41017,
+      "subsidy_dollars": 31080
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 281,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41017,
+      "subsidy_dollars": 2389
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 282,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41017,
+      "subsidy_dollars": 29964
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 283,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41017,
+      "subsidy_dollars": 2703
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 284,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2008,
+      "fips": 41017,
+      "subsidy_dollars": 21
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 285,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41017,
+      "subsidy_dollars": 26157
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 286,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41017,
+      "subsidy_dollars": 2268
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 287,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2009,
+      "fips": 41017,
+      "subsidy_dollars": 18
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 288,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41017,
+      "subsidy_dollars": 40000
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 289,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41017,
+      "subsidy_dollars": 2528
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 290,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2010,
+      "fips": 41017,
+      "subsidy_dollars": 20
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 291,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41017,
+      "subsidy_dollars": 37116
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 292,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41017,
+      "subsidy_dollars": 2951
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 293,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2011,
+      "fips": 41017,
+      "subsidy_dollars": 23
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 294,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41017,
+      "subsidy_dollars": 16168
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 295,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41019,
+      "subsidy_dollars": 911301
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 296,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2003,
+      "fips": 41019,
+      "subsidy_dollars": 117009
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 297,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41019,
+      "subsidy_dollars": 93914
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 298,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41019,
+      "subsidy_dollars": 88295
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 299,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2004,
+      "fips": 41019,
+      "subsidy_dollars": 32860
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 300,
+    "fields": {
+      "commodity": "Mohair",
+      "year": 2004,
+      "fips": 41019,
+      "subsidy_dollars": 4748
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 301,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2005,
+      "fips": 41019,
+      "subsidy_dollars": 641262
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 302,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41019,
+      "subsidy_dollars": 89901
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 303,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41019,
+      "subsidy_dollars": 65391
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 304,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41019,
+      "subsidy_dollars": 74964
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 305,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2006,
+      "fips": 41019,
+      "subsidy_dollars": 28970
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 306,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41019,
+      "subsidy_dollars": 3195
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 307,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2006,
+      "fips": 41019,
+      "subsidy_dollars": 1687
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 308,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41019,
+      "subsidy_dollars": 73214
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 309,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41019,
+      "subsidy_dollars": 23941
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 310,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41019,
+      "subsidy_dollars": 1896
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 311,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2007,
+      "fips": 41019,
+      "subsidy_dollars": 1404
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 312,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41019,
+      "subsidy_dollars": 288822
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 313,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41019,
+      "subsidy_dollars": 77178
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 314,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2008,
+      "fips": 41019,
+      "subsidy_dollars": 19184
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 315,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41019,
+      "subsidy_dollars": 52336
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 316,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2009,
+      "fips": 41019,
+      "subsidy_dollars": 36649
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 317,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2009,
+      "fips": 41019,
+      "subsidy_dollars": 2997
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 318,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41019,
+      "subsidy_dollars": 93194
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 319,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2010,
+      "fips": 41019,
+      "subsidy_dollars": 35948
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 320,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41019,
+      "subsidy_dollars": 2579
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 321,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41019,
+      "subsidy_dollars": 73184
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 322,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41019,
+      "subsidy_dollars": 2025
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 323,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2011,
+      "fips": 41019,
+      "subsidy_dollars": 1811
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 324,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41019,
+      "subsidy_dollars": 559
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 325,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41021,
+      "subsidy_dollars": 2810853
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 326,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41021,
+      "subsidy_dollars": 158287
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 327,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41021,
+      "subsidy_dollars": 2107371
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 328,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41021,
+      "subsidy_dollars": 262197
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 329,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41021,
+      "subsidy_dollars": 2273843
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 330,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41021,
+      "subsidy_dollars": 299589
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 331,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41021,
+      "subsidy_dollars": 25217
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 332,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41021,
+      "subsidy_dollars": 2127731
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 333,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41021,
+      "subsidy_dollars": 194479
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 334,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41021,
+      "subsidy_dollars": 46778
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 335,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2006,
+      "fips": 41021,
+      "subsidy_dollars": 2375
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 336,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41021,
+      "subsidy_dollars": 2315916
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 337,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41021,
+      "subsidy_dollars": 162169
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 338,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41021,
+      "subsidy_dollars": 12543
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 339,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41021,
+      "subsidy_dollars": 2612257
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 340,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41021,
+      "subsidy_dollars": 159716
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 341,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41021,
+      "subsidy_dollars": 28261
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 342,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41021,
+      "subsidy_dollars": 2726803
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 343,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41021,
+      "subsidy_dollars": 65803
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 344,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41021,
+      "subsidy_dollars": 4317
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 345,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41021,
+      "subsidy_dollars": 1470120
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 346,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41021,
+      "subsidy_dollars": 45469
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 347,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41021,
+      "subsidy_dollars": 3273
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 348,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41021,
+      "subsidy_dollars": 1959573
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 349,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41021,
+      "subsidy_dollars": 74244
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 350,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41021,
+      "subsidy_dollars": 3125
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 351,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41021,
+      "subsidy_dollars": 1370854
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 352,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2012,
+      "fips": 41021,
+      "subsidy_dollars": 90691
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 353,
+    "fields": {
+      "commodity": "Canola",
+      "year": 2012,
+      "fips": 41021,
+      "subsidy_dollars": 1515
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 354,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41023,
+      "subsidy_dollars": 482345
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 355,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41023,
+      "subsidy_dollars": 10962
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 356,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41023,
+      "subsidy_dollars": 5851
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 357,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41023,
+      "subsidy_dollars": 5238
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 358,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2005,
+      "fips": 41023,
+      "subsidy_dollars": 174338
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 359,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41023,
+      "subsidy_dollars": 4723
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 360,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41023,
+      "subsidy_dollars": 3900
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 361,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41023,
+      "subsidy_dollars": 5943
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 362,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2006,
+      "fips": 41023,
+      "subsidy_dollars": 1714
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 363,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41023,
+      "subsidy_dollars": 1568
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 364,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41023,
+      "subsidy_dollars": 5420
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 365,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2007,
+      "fips": 41023,
+      "subsidy_dollars": 119
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 366,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41023,
+      "subsidy_dollars": 227338
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 367,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41023,
+      "subsidy_dollars": 6229
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 368,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41023,
+      "subsidy_dollars": 1107
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 369,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41023,
+      "subsidy_dollars": 5670
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 370,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41023,
+      "subsidy_dollars": 1017
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 371,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2009,
+      "fips": 41023,
+      "subsidy_dollars": 119
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 372,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41023,
+      "subsidy_dollars": 5668
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 373,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41023,
+      "subsidy_dollars": 1017
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 374,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2010,
+      "fips": 41023,
+      "subsidy_dollars": 119
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 375,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41023,
+      "subsidy_dollars": 5668
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 376,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41023,
+      "subsidy_dollars": 1017
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 377,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2011,
+      "fips": 41023,
+      "subsidy_dollars": 119
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 378,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41025,
+      "subsidy_dollars": 212841
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 379,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41025,
+      "subsidy_dollars": 48491
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 380,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2004,
+      "fips": 41025,
+      "subsidy_dollars": 250835
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 381,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41025,
+      "subsidy_dollars": 46938
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 382,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2005,
+      "fips": 41025,
+      "subsidy_dollars": 256465
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 383,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41025,
+      "subsidy_dollars": 69029
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 384,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41025,
+      "subsidy_dollars": 16722
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 385,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2006,
+      "fips": 41025,
+      "subsidy_dollars": 68165
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 386,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41025,
+      "subsidy_dollars": 65787
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 387,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41025,
+      "subsidy_dollars": 15060
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 388,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41025,
+      "subsidy_dollars": 40232
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 389,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41025,
+      "subsidy_dollars": 14661
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 390,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41025,
+      "subsidy_dollars": 2407
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 391,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41025,
+      "subsidy_dollars": 634767
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 392,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41025,
+      "subsidy_dollars": 40909
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 393,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41025,
+      "subsidy_dollars": 14215
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 394,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41025,
+      "subsidy_dollars": 33413
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 395,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41025,
+      "subsidy_dollars": 11593
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 396,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2010,
+      "fips": 41025,
+      "subsidy_dollars": 695190
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 397,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41025,
+      "subsidy_dollars": 29467
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 398,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41025,
+      "subsidy_dollars": 13391
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 399,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2011,
+      "fips": 41025,
+      "subsidy_dollars": 797906
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 400,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41025,
+      "subsidy_dollars": 42150
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 401,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41025,
+      "subsidy_dollars": 27800
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 402,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41025,
+      "subsidy_dollars": 3864
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 403,
+    "fields": {
+      "commodity": "Apple",
+      "year": 2003,
+      "fips": 41027,
+      "subsidy_dollars": 435177
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 404,
+    "fields": {
+      "commodity": "Tree",
+      "year": 2005,
+      "fips": 41027,
+      "subsidy_dollars": 12566
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 405,
+    "fields": {
+      "commodity": "Tree",
+      "year": 2011,
+      "fips": 41027,
+      "subsidy_dollars": 37983
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 406,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41027,
+      "subsidy_dollars": 2954
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 407,
+    "fields": {
+      "commodity": "Tree",
+      "year": 2012,
+      "fips": 41027,
+      "subsidy_dollars": 171772
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 408,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41027,
+      "subsidy_dollars": 871
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 409,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41029,
+      "subsidy_dollars": 44385
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 410,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41029,
+      "subsidy_dollars": 36811
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 411,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41029,
+      "subsidy_dollars": 17872
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 412,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41029,
+      "subsidy_dollars": 32874
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 413,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41029,
+      "subsidy_dollars": 11363
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 414,
+    "fields": {
+      "commodity": "Fish",
+      "year": 2004,
+      "fips": 41029,
+      "subsidy_dollars": 6707
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 415,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41029,
+      "subsidy_dollars": 28670
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 416,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41029,
+      "subsidy_dollars": 10295
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 417,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41029,
+      "subsidy_dollars": 5184
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 418,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41029,
+      "subsidy_dollars": 22806
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 419,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41029,
+      "subsidy_dollars": 9930
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 420,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41029,
+      "subsidy_dollars": 2722
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 421,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2006,
+      "fips": 41029,
+      "subsidy_dollars": 1263
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 422,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41029,
+      "subsidy_dollars": 27730
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 423,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41029,
+      "subsidy_dollars": 10002
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 424,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41029,
+      "subsidy_dollars": 3041
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 425,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41029,
+      "subsidy_dollars": 552
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 426,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41029,
+      "subsidy_dollars": 14604
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 427,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41029,
+      "subsidy_dollars": 5697
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 428,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41029,
+      "subsidy_dollars": 1773
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 429,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41029,
+      "subsidy_dollars": 15988
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 430,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41029,
+      "subsidy_dollars": 6237
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 431,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41029,
+      "subsidy_dollars": 1941
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 432,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41029,
+      "subsidy_dollars": 14656
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 433,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41029,
+      "subsidy_dollars": 5717
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 434,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41029,
+      "subsidy_dollars": 1779
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 435,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41029,
+      "subsidy_dollars": 13324
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 436,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41029,
+      "subsidy_dollars": 5198
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 437,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41029,
+      "subsidy_dollars": 1618
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 438,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2011,
+      "fips": 41029,
+      "subsidy_dollars": 14
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 439,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41029,
+      "subsidy_dollars": 3234
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 440,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41031,
+      "subsidy_dollars": 925989
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 441,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41031,
+      "subsidy_dollars": 52149
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 442,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41031,
+      "subsidy_dollars": 895741
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 443,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41031,
+      "subsidy_dollars": 48334
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 444,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41031,
+      "subsidy_dollars": 820412
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 445,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41031,
+      "subsidy_dollars": 68095
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 446,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41031,
+      "subsidy_dollars": 20492
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 447,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41031,
+      "subsidy_dollars": 811318
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 448,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41031,
+      "subsidy_dollars": 60091
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 449,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41031,
+      "subsidy_dollars": 19854
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 450,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41031,
+      "subsidy_dollars": 793862
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 451,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41031,
+      "subsidy_dollars": 36144
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 452,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41031,
+      "subsidy_dollars": 8624
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 453,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41031,
+      "subsidy_dollars": 761784
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 454,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41031,
+      "subsidy_dollars": 34263
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 455,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41031,
+      "subsidy_dollars": 8666
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 456,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41031,
+      "subsidy_dollars": 861976
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 457,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41031,
+      "subsidy_dollars": 34365
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 458,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41031,
+      "subsidy_dollars": 793477
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 459,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41031,
+      "subsidy_dollars": 33378
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 460,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41031,
+      "subsidy_dollars": 8445
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 461,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41031,
+      "subsidy_dollars": 1148269
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 462,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41031,
+      "subsidy_dollars": 32760
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 463,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41031,
+      "subsidy_dollars": 8269
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 464,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41031,
+      "subsidy_dollars": 412899
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 465,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2012,
+      "fips": 41031,
+      "subsidy_dollars": 6093
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 466,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41033,
+      "subsidy_dollars": 160615
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 467,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41033,
+      "subsidy_dollars": 8721
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 468,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41033,
+      "subsidy_dollars": 5041
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 469,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41033,
+      "subsidy_dollars": 64154
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 470,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41033,
+      "subsidy_dollars": 9289
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 471,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41033,
+      "subsidy_dollars": 1059
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 472,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41033,
+      "subsidy_dollars": 4787
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 473,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41033,
+      "subsidy_dollars": 1059
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 474,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2005,
+      "fips": 41033,
+      "subsidy_dollars": 820
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 475,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41033,
+      "subsidy_dollars": 122289
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 476,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41033,
+      "subsidy_dollars": 4737
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 477,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41033,
+      "subsidy_dollars": 1043
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 478,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41033,
+      "subsidy_dollars": 13770
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 479,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41033,
+      "subsidy_dollars": 4766
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 480,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41033,
+      "subsidy_dollars": 1055
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 481,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41033,
+      "subsidy_dollars": 4729
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 482,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41033,
+      "subsidy_dollars": 1028
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 483,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41033,
+      "subsidy_dollars": 280063
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 484,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41033,
+      "subsidy_dollars": 2564
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 485,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41033,
+      "subsidy_dollars": 557
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 486,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2010,
+      "fips": 41033,
+      "subsidy_dollars": 18730
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 487,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41033,
+      "subsidy_dollars": 5012
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 488,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41033,
+      "subsidy_dollars": 1090
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 489,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41033,
+      "subsidy_dollars": 3987
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 490,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41033,
+      "subsidy_dollars": 867
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 491,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41033,
+      "subsidy_dollars": 119692
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 492,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41035,
+      "subsidy_dollars": 536967
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 493,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41035,
+      "subsidy_dollars": 334490
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 494,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41035,
+      "subsidy_dollars": 858362
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 495,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41035,
+      "subsidy_dollars": 290653
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 496,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41035,
+      "subsidy_dollars": 103007
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 497,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41035,
+      "subsidy_dollars": 869736
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 498,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41035,
+      "subsidy_dollars": 389901
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 499,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41035,
+      "subsidy_dollars": 18036
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 500,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41035,
+      "subsidy_dollars": 744626
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 501,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41035,
+      "subsidy_dollars": 272071
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 502,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41035,
+      "subsidy_dollars": 150852
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 503,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2006,
+      "fips": 41035,
+      "subsidy_dollars": 11167
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 504,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41035,
+      "subsidy_dollars": 410586
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 505,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41035,
+      "subsidy_dollars": 288411
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 506,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2007,
+      "fips": 41035,
+      "subsidy_dollars": 9704
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 507,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41035,
+      "subsidy_dollars": 3603
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 508,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41035,
+      "subsidy_dollars": 446601
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 509,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41035,
+      "subsidy_dollars": 385812
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 510,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41035,
+      "subsidy_dollars": 28427
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 511,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41035,
+      "subsidy_dollars": 672032
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 512,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41035,
+      "subsidy_dollars": 475577
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 513,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41035,
+      "subsidy_dollars": 428450
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 514,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41035,
+      "subsidy_dollars": 498406
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 515,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41035,
+      "subsidy_dollars": 326486
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 516,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2010,
+      "fips": 41035,
+      "subsidy_dollars": 67268
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 517,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41035,
+      "subsidy_dollars": 846745
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 518,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41035,
+      "subsidy_dollars": 470643
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 519,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2011,
+      "fips": 41035,
+      "subsidy_dollars": 25364
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 520,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41035,
+      "subsidy_dollars": 305008
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 521,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41035,
+      "subsidy_dollars": 124243
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 522,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2012,
+      "fips": 41035,
+      "subsidy_dollars": 107212
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 523,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41037,
+      "subsidy_dollars": 759627
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 524,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41037,
+      "subsidy_dollars": 100792
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 525,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41037,
+      "subsidy_dollars": 97299
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 526,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41037,
+      "subsidy_dollars": 96359
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 527,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41037,
+      "subsidy_dollars": 78348
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 528,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2004,
+      "fips": 41037,
+      "subsidy_dollars": 4731
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 529,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41037,
+      "subsidy_dollars": 118464
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 530,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41037,
+      "subsidy_dollars": 82778
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 531,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2005,
+      "fips": 41037,
+      "subsidy_dollars": 10831
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 532,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41037,
+      "subsidy_dollars": 104598
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 533,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41037,
+      "subsidy_dollars": 80878
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 534,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2006,
+      "fips": 41037,
+      "subsidy_dollars": 1445
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 535,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2006,
+      "fips": 41037,
+      "subsidy_dollars": 157
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 536,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41037,
+      "subsidy_dollars": 77934
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 537,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41037,
+      "subsidy_dollars": 71111
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 538,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2007,
+      "fips": 41037,
+      "subsidy_dollars": 1440
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 539,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41037,
+      "subsidy_dollars": 322326
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 540,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41037,
+      "subsidy_dollars": 78512
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 541,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41037,
+      "subsidy_dollars": 73587
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 542,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2009,
+      "fips": 41037,
+      "subsidy_dollars": 121331
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 543,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41037,
+      "subsidy_dollars": 72815
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 544,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2010,
+      "fips": 41037,
+      "subsidy_dollars": 157113
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 545,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41037,
+      "subsidy_dollars": 76042
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 546,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2011,
+      "fips": 41037,
+      "subsidy_dollars": 418892
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 547,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41037,
+      "subsidy_dollars": 78479
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 548,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41037,
+      "subsidy_dollars": 73556
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 549,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41039,
+      "subsidy_dollars": 234027
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 550,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41039,
+      "subsidy_dollars": 230198
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 551,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41039,
+      "subsidy_dollars": 52845
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 552,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41039,
+      "subsidy_dollars": 179206
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 553,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41039,
+      "subsidy_dollars": 61919
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 554,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41039,
+      "subsidy_dollars": 46240
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 555,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41039,
+      "subsidy_dollars": 162025
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 556,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41039,
+      "subsidy_dollars": 57194
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 557,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41039,
+      "subsidy_dollars": 25155
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 558,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41039,
+      "subsidy_dollars": 161400
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 559,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41039,
+      "subsidy_dollars": 108390
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 560,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41039,
+      "subsidy_dollars": 45826
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 561,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2006,
+      "fips": 41039,
+      "subsidy_dollars": 9048
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 562,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41039,
+      "subsidy_dollars": 154867
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 563,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41039,
+      "subsidy_dollars": 20155
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 564,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41039,
+      "subsidy_dollars": 14032
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 565,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2007,
+      "fips": 41039,
+      "subsidy_dollars": 7357
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 566,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41039,
+      "subsidy_dollars": 141907
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 567,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41039,
+      "subsidy_dollars": 52373
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 568,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41039,
+      "subsidy_dollars": 20737
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 569,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41039,
+      "subsidy_dollars": 231839
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 570,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41039,
+      "subsidy_dollars": 138994
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 571,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41039,
+      "subsidy_dollars": 18629
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 572,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41039,
+      "subsidy_dollars": 246918
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 573,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41039,
+      "subsidy_dollars": 20249
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 574,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2010,
+      "fips": 41039,
+      "subsidy_dollars": 10178
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 575,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41039,
+      "subsidy_dollars": 313266
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 576,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2011,
+      "fips": 41039,
+      "subsidy_dollars": 30817
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 577,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41039,
+      "subsidy_dollars": 17014
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 578,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41039,
+      "subsidy_dollars": 1870
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 579,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41039,
+      "subsidy_dollars": 108183
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 580,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41039,
+      "subsidy_dollars": 101698
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 581,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41041,
+      "subsidy_dollars": 2196
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 582,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41043,
+      "subsidy_dollars": 395546
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 583,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41043,
+      "subsidy_dollars": 364618
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 584,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41043,
+      "subsidy_dollars": 348468
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 585,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2003,
+      "fips": 41043,
+      "subsidy_dollars": 224284
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 586,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41043,
+      "subsidy_dollars": 278409
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 587,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41043,
+      "subsidy_dollars": 94219
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 588,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2004,
+      "fips": 41043,
+      "subsidy_dollars": 45643
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 589,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41043,
+      "subsidy_dollars": 283141
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 590,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41043,
+      "subsidy_dollars": 104334
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 591,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41043,
+      "subsidy_dollars": 88399
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 592,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2005,
+      "fips": 41043,
+      "subsidy_dollars": 34354
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 593,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41043,
+      "subsidy_dollars": 268912
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 594,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41043,
+      "subsidy_dollars": 208150
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 595,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41043,
+      "subsidy_dollars": 49807
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 596,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2006,
+      "fips": 41043,
+      "subsidy_dollars": 41195
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 597,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41043,
+      "subsidy_dollars": 250864
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 598,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41043,
+      "subsidy_dollars": 43197
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 599,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41043,
+      "subsidy_dollars": 17257
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 600,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2007,
+      "fips": 41043,
+      "subsidy_dollars": 15521
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 601,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41043,
+      "subsidy_dollars": 219825
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 602,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2008,
+      "fips": 41043,
+      "subsidy_dollars": 32739
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 603,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41043,
+      "subsidy_dollars": 16603
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 604,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2008,
+      "fips": 41043,
+      "subsidy_dollars": 11228
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 605,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41043,
+      "subsidy_dollars": 495804
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 606,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41043,
+      "subsidy_dollars": 219662
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 607,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2009,
+      "fips": 41043,
+      "subsidy_dollars": 60467
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 608,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41043,
+      "subsidy_dollars": 348059
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 609,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2010,
+      "fips": 41043,
+      "subsidy_dollars": 103068
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 610,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2010,
+      "fips": 41043,
+      "subsidy_dollars": 74895
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 611,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41043,
+      "subsidy_dollars": 485557
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 612,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2011,
+      "fips": 41043,
+      "subsidy_dollars": 35013
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 613,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2011,
+      "fips": 41043,
+      "subsidy_dollars": 14625
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 614,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41043,
+      "subsidy_dollars": 13686
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 615,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41043,
+      "subsidy_dollars": 248168
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 616,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41043,
+      "subsidy_dollars": 124747
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 617,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41045,
+      "subsidy_dollars": 1864759
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 618,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41045,
+      "subsidy_dollars": 1795329
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 619,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41045,
+      "subsidy_dollars": 587098
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 620,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2003,
+      "fips": 41045,
+      "subsidy_dollars": 531374
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 621,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41045,
+      "subsidy_dollars": 1557536
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 622,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41045,
+      "subsidy_dollars": 657321
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 623,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41045,
+      "subsidy_dollars": 164316
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 624,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41045,
+      "subsidy_dollars": 1604659
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 625,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41045,
+      "subsidy_dollars": 1516946
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 626,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41045,
+      "subsidy_dollars": 226642
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 627,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2005,
+      "fips": 41045,
+      "subsidy_dollars": 196956
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 628,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41045,
+      "subsidy_dollars": 1542281
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 629,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41045,
+      "subsidy_dollars": 1482419
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 630,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41045,
+      "subsidy_dollars": 327154
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 631,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41045,
+      "subsidy_dollars": 188504
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 632,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41045,
+      "subsidy_dollars": 1509437
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 633,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41045,
+      "subsidy_dollars": 451356
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 634,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41045,
+      "subsidy_dollars": 114937
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 635,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41045,
+      "subsidy_dollars": 1469499
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 636,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41045,
+      "subsidy_dollars": 467437
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 637,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41045,
+      "subsidy_dollars": 433796
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 638,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41045,
+      "subsidy_dollars": 106968
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 639,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41045,
+      "subsidy_dollars": 1514970
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 640,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41045,
+      "subsidy_dollars": 659454
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 641,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41045,
+      "subsidy_dollars": 436022
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 642,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41045,
+      "subsidy_dollars": 1492021
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 643,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41045,
+      "subsidy_dollars": 423129
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 644,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41045,
+      "subsidy_dollars": 102862
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 645,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2010,
+      "fips": 41045,
+      "subsidy_dollars": 85842
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 646,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41045,
+      "subsidy_dollars": 1666386
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 647,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41045,
+      "subsidy_dollars": 500548
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 648,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41045,
+      "subsidy_dollars": 107090
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 649,
+    "fields": {
+      "commodity": "Sorghum",
+      "year": 2011,
+      "fips": 41045,
+      "subsidy_dollars": 8847
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 650,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41045,
+      "subsidy_dollars": 281222
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 651,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41045,
+      "subsidy_dollars": 194060
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 652,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2012,
+      "fips": 41045,
+      "subsidy_dollars": 100319
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 653,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2012,
+      "fips": 41045,
+      "subsidy_dollars": 1274
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 654,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41047,
+      "subsidy_dollars": 647344
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 655,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41047,
+      "subsidy_dollars": 463913
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 656,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2003,
+      "fips": 41047,
+      "subsidy_dollars": 102945
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 657,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41047,
+      "subsidy_dollars": 593834
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 658,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41047,
+      "subsidy_dollars": 247287
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 659,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41047,
+      "subsidy_dollars": 186761
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 660,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41047,
+      "subsidy_dollars": 584374
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 661,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41047,
+      "subsidy_dollars": 279826
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 662,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41047,
+      "subsidy_dollars": 20584
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 663,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2005,
+      "fips": 41047,
+      "subsidy_dollars": 6424
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 664,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41047,
+      "subsidy_dollars": 567561
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 665,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41047,
+      "subsidy_dollars": 483871
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 666,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41047,
+      "subsidy_dollars": 156694
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 667,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41047,
+      "subsidy_dollars": 552269
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 668,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41047,
+      "subsidy_dollars": 107516
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 669,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41047,
+      "subsidy_dollars": 64741
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 670,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41047,
+      "subsidy_dollars": 3248
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 671,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41047,
+      "subsidy_dollars": 554179
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 672,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41047,
+      "subsidy_dollars": 65304
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 673,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2008,
+      "fips": 41047,
+      "subsidy_dollars": 3047
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 674,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41047,
+      "subsidy_dollars": 1646322
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 675,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41047,
+      "subsidy_dollars": 557599
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 676,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41047,
+      "subsidy_dollars": 61793
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 677,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41047,
+      "subsidy_dollars": 662833
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 678,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2010,
+      "fips": 41047,
+      "subsidy_dollars": 144387
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 679,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41047,
+      "subsidy_dollars": 63467
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 680,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41047,
+      "subsidy_dollars": 874238
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 681,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41047,
+      "subsidy_dollars": 62653
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 682,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2011,
+      "fips": 41047,
+      "subsidy_dollars": 2734
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 683,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41047,
+      "subsidy_dollars": 530151
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 684,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41047,
+      "subsidy_dollars": 182913
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 685,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41049,
+      "subsidy_dollars": 5255763
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 686,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2003,
+      "fips": 41049,
+      "subsidy_dollars": 204229
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 687,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41049,
+      "subsidy_dollars": 4290429
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 688,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41049,
+      "subsidy_dollars": 606717
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 689,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41049,
+      "subsidy_dollars": 247495
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 690,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41049,
+      "subsidy_dollars": 4186798
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 691,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2005,
+      "fips": 41049,
+      "subsidy_dollars": 292757
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 692,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41049,
+      "subsidy_dollars": 264503
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 693,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41049,
+      "subsidy_dollars": 4181279
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 694,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41049,
+      "subsidy_dollars": 384385
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 695,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41049,
+      "subsidy_dollars": 229943
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 696,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41049,
+      "subsidy_dollars": 88735
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 697,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41049,
+      "subsidy_dollars": 4217322
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 698,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41049,
+      "subsidy_dollars": 162757
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 699,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41049,
+      "subsidy_dollars": 155735
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 700,
+    "fields": {
+      "commodity": "Mustard Seed",
+      "year": 2007,
+      "fips": 41049,
+      "subsidy_dollars": 510
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 701,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41049,
+      "subsidy_dollars": 4550237
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 702,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41049,
+      "subsidy_dollars": 207571
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 703,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41049,
+      "subsidy_dollars": 184109
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 704,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41049,
+      "subsidy_dollars": 5363045
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 705,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41049,
+      "subsidy_dollars": 175923
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 706,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41049,
+      "subsidy_dollars": 120271
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 707,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41049,
+      "subsidy_dollars": 4175643
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 708,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41049,
+      "subsidy_dollars": 235850
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 709,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41049,
+      "subsidy_dollars": 128046
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 710,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41049,
+      "subsidy_dollars": 4582196
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 711,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41049,
+      "subsidy_dollars": 252671
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 712,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41049,
+      "subsidy_dollars": 136620
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 713,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41049,
+      "subsidy_dollars": 2026578
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 714,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2012,
+      "fips": 41049,
+      "subsidy_dollars": 158346
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 715,
+    "fields": {
+      "commodity": "Canola",
+      "year": 2012,
+      "fips": 41049,
+      "subsidy_dollars": 8788
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 716,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41051,
+      "subsidy_dollars": 32435
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 717,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2003,
+      "fips": 41051,
+      "subsidy_dollars": 3135
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 718,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41051,
+      "subsidy_dollars": 1963
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 719,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2003,
+      "fips": 41051,
+      "subsidy_dollars": 105
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 720,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41051,
+      "subsidy_dollars": 20893
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 721,
+    "fields": {
+      "commodity": "Fish",
+      "year": 2004,
+      "fips": 41051,
+      "subsidy_dollars": 8883
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 722,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41051,
+      "subsidy_dollars": 5798
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 723,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41051,
+      "subsidy_dollars": 596
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 724,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2004,
+      "fips": 41051,
+      "subsidy_dollars": 90
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 725,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41051,
+      "subsidy_dollars": 17272
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 726,
+    "fields": {
+      "commodity": "Fish",
+      "year": 2005,
+      "fips": 41051,
+      "subsidy_dollars": 4053
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 727,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41051,
+      "subsidy_dollars": 1474
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 728,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41051,
+      "subsidy_dollars": 1119
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 729,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2005,
+      "fips": 41051,
+      "subsidy_dollars": 30
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 730,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41051,
+      "subsidy_dollars": 14187
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 731,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41051,
+      "subsidy_dollars": 7353
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 732,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41051,
+      "subsidy_dollars": 957
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 733,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2006,
+      "fips": 41051,
+      "subsidy_dollars": 21
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 734,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41051,
+      "subsidy_dollars": 28283
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 735,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41051,
+      "subsidy_dollars": 24206
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 736,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41051,
+      "subsidy_dollars": 39911
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 737,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41051,
+      "subsidy_dollars": 52856
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 738,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2010,
+      "fips": 41051,
+      "subsidy_dollars": 12312
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 739,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41051,
+      "subsidy_dollars": 98149
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 740,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41051,
+      "subsidy_dollars": 40479
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 741,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41053,
+      "subsidy_dollars": 859721
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 742,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2003,
+      "fips": 41053,
+      "subsidy_dollars": 74983
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 743,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41053,
+      "subsidy_dollars": 710496
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 744,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41053,
+      "subsidy_dollars": 105928
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 745,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41053,
+      "subsidy_dollars": 83734
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 746,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41053,
+      "subsidy_dollars": 690847
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 747,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41053,
+      "subsidy_dollars": 184738
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 748,
+    "fields": {
+      "commodity": "Dry Pea",
+      "year": 2005,
+      "fips": 41053,
+      "subsidy_dollars": 17439
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 749,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41053,
+      "subsidy_dollars": 677918
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 750,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41053,
+      "subsidy_dollars": 194809
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 751,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41053,
+      "subsidy_dollars": 95287
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 752,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41053,
+      "subsidy_dollars": 685087
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 753,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41053,
+      "subsidy_dollars": 37923
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 754,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41053,
+      "subsidy_dollars": 11767
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 755,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41053,
+      "subsidy_dollars": 681233
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 756,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41053,
+      "subsidy_dollars": 39679
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 757,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41053,
+      "subsidy_dollars": 6872
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 758,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41053,
+      "subsidy_dollars": 658235
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 759,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41053,
+      "subsidy_dollars": 531124
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 760,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41053,
+      "subsidy_dollars": 38218
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 761,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41053,
+      "subsidy_dollars": 765357
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 762,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41053,
+      "subsidy_dollars": 40668
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 763,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41053,
+      "subsidy_dollars": 888597
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 764,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41053,
+      "subsidy_dollars": 36238
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 765,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41053,
+      "subsidy_dollars": 5947
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 766,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41053,
+      "subsidy_dollars": 213400
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 767,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41053,
+      "subsidy_dollars": 140923
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 768,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2012,
+      "fips": 41053,
+      "subsidy_dollars": 578
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 769,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41055,
+      "subsidy_dollars": 3133016
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 770,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41055,
+      "subsidy_dollars": 263715
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 771,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41055,
+      "subsidy_dollars": 2801201
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 772,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41055,
+      "subsidy_dollars": 475879
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 773,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41055,
+      "subsidy_dollars": 2740411
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 774,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41055,
+      "subsidy_dollars": 488330
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 775,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2005,
+      "fips": 41055,
+      "subsidy_dollars": 55265
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 776,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41055,
+      "subsidy_dollars": 2830443
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 777,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41055,
+      "subsidy_dollars": 358080
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 778,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2006,
+      "fips": 41055,
+      "subsidy_dollars": 182
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 779,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41055,
+      "subsidy_dollars": 2930741
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 780,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41055,
+      "subsidy_dollars": 277099
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 781,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2007,
+      "fips": 41055,
+      "subsidy_dollars": 185
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 782,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41055,
+      "subsidy_dollars": 3301295
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 783,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41055,
+      "subsidy_dollars": 284023
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 784,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41055,
+      "subsidy_dollars": 13263
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 785,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41055,
+      "subsidy_dollars": 2741065
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 786,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41055,
+      "subsidy_dollars": 80101
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 787,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2009,
+      "fips": 41055,
+      "subsidy_dollars": 56
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 788,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41055,
+      "subsidy_dollars": 1691346
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 789,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41055,
+      "subsidy_dollars": 93471
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 790,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2010,
+      "fips": 41055,
+      "subsidy_dollars": 56
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 791,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41055,
+      "subsidy_dollars": 2291337
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 792,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41055,
+      "subsidy_dollars": 118455
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 793,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2011,
+      "fips": 41055,
+      "subsidy_dollars": 57
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 794,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41055,
+      "subsidy_dollars": 1652314
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 795,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2012,
+      "fips": 41055,
+      "subsidy_dollars": 50393
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 796,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41057,
+      "subsidy_dollars": 3170806
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 797,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41057,
+      "subsidy_dollars": 856263
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 798,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2005,
+      "fips": 41057,
+      "subsidy_dollars": 14291
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 799,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41057,
+      "subsidy_dollars": 2097871
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 800,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41057,
+      "subsidy_dollars": 192682
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 801,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41057,
+      "subsidy_dollars": 103287
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 802,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41057,
+      "subsidy_dollars": 5116697
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 803,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2010,
+      "fips": 41057,
+      "subsidy_dollars": 286046
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 804,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41057,
+      "subsidy_dollars": 2071220
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 805,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41059,
+      "subsidy_dollars": 11750645
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 806,
+    "fields": {
+      "commodity": "Apple",
+      "year": 2003,
+      "fips": 41059,
+      "subsidy_dollars": 1211974
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 807,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41059,
+      "subsidy_dollars": 433364
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 808,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41059,
+      "subsidy_dollars": 9585613
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 809,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41059,
+      "subsidy_dollars": 587677
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 810,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41059,
+      "subsidy_dollars": 329532
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 811,
+    "fields": {
+      "commodity": "Dry Pea",
+      "year": 2004,
+      "fips": 41059,
+      "subsidy_dollars": 301797
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 812,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41059,
+      "subsidy_dollars": 9284038
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 813,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41059,
+      "subsidy_dollars": 643765
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 814,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41059,
+      "subsidy_dollars": 539991
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 815,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41059,
+      "subsidy_dollars": 9268376
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 816,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41059,
+      "subsidy_dollars": 534774
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 817,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41059,
+      "subsidy_dollars": 455362
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 818,
+    "fields": {
+      "commodity": "Dry Pea",
+      "year": 2006,
+      "fips": 41059,
+      "subsidy_dollars": 203519
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 819,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41059,
+      "subsidy_dollars": 9778461
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 820,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41059,
+      "subsidy_dollars": 356479
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 821,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41059,
+      "subsidy_dollars": 228095
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 822,
+    "fields": {
+      "commodity": "Canola",
+      "year": 2007,
+      "fips": 41059,
+      "subsidy_dollars": 47419
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 823,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41059,
+      "subsidy_dollars": 10385543
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 824,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41059,
+      "subsidy_dollars": 372010
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 825,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41059,
+      "subsidy_dollars": 214917
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 826,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41059,
+      "subsidy_dollars": 10492918
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 827,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41059,
+      "subsidy_dollars": 232037
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 828,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41059,
+      "subsidy_dollars": 9016893
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 829,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41059,
+      "subsidy_dollars": 273438
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 830,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41059,
+      "subsidy_dollars": 181811
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 831,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41059,
+      "subsidy_dollars": 10643986
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 832,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41059,
+      "subsidy_dollars": 275624
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 833,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41059,
+      "subsidy_dollars": 263438
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 834,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41059,
+      "subsidy_dollars": 4854045
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 835,
+    "fields": {
+      "commodity": "Tree",
+      "year": 2012,
+      "fips": 41059,
+      "subsidy_dollars": 573018
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 836,
+    "fields": {
+      "commodity": "Canola",
+      "year": 2012,
+      "fips": 41059,
+      "subsidy_dollars": 90264
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 837,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41061,
+      "subsidy_dollars": 1858269
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 838,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41061,
+      "subsidy_dollars": 227926
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 839,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41061,
+      "subsidy_dollars": 1452340
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 840,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41061,
+      "subsidy_dollars": 250951
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 841,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41061,
+      "subsidy_dollars": 1617323
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 842,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41061,
+      "subsidy_dollars": 338124
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 843,
+    "fields": {
+      "commodity": "Sheep Meat",
+      "year": 2005,
+      "fips": 41061,
+      "subsidy_dollars": 2502
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 844,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41061,
+      "subsidy_dollars": 1448270
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 845,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41061,
+      "subsidy_dollars": 298244
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 846,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2006,
+      "fips": 41061,
+      "subsidy_dollars": 1063
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 847,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2006,
+      "fips": 41061,
+      "subsidy_dollars": 763
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 848,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41061,
+      "subsidy_dollars": 1526557
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 849,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41061,
+      "subsidy_dollars": 196249
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 850,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2007,
+      "fips": 41061,
+      "subsidy_dollars": 1194
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 851,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41061,
+      "subsidy_dollars": 1669536
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 852,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41061,
+      "subsidy_dollars": 202184
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 853,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41061,
+      "subsidy_dollars": 105278
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 854,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41061,
+      "subsidy_dollars": 1787234
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 855,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41061,
+      "subsidy_dollars": 189205
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 856,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41061,
+      "subsidy_dollars": 1649286
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 857,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41061,
+      "subsidy_dollars": 188180
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 858,
+    "fields": {
+      "commodity": "Canola",
+      "year": 2010,
+      "fips": 41061,
+      "subsidy_dollars": 2396
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 859,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2010,
+      "fips": 41061,
+      "subsidy_dollars": 1668
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 860,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41061,
+      "subsidy_dollars": 1877842
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 861,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41061,
+      "subsidy_dollars": 195614
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 862,
+    "fields": {
+      "commodity": "Canola",
+      "year": 2011,
+      "fips": 41061,
+      "subsidy_dollars": 2636
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 863,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2011,
+      "fips": 41061,
+      "subsidy_dollars": 1214
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 864,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41061,
+      "subsidy_dollars": 512560
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 865,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2012,
+      "fips": 41061,
+      "subsidy_dollars": 26238
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 866,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2012,
+      "fips": 41061,
+      "subsidy_dollars": 1276
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 867,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41063,
+      "subsidy_dollars": 715791
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 868,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41063,
+      "subsidy_dollars": 280079
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 869,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41063,
+      "subsidy_dollars": 580710
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 870,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41063,
+      "subsidy_dollars": 368641
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 871,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2005,
+      "fips": 41063,
+      "subsidy_dollars": 687527
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 872,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41063,
+      "subsidy_dollars": 592744
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 873,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41063,
+      "subsidy_dollars": 404914
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 874,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41063,
+      "subsidy_dollars": 515276
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 875,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41063,
+      "subsidy_dollars": 350424
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 876,
+    "fields": {
+      "commodity": "Dry Pea",
+      "year": 2006,
+      "fips": 41063,
+      "subsidy_dollars": 40000
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 877,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41063,
+      "subsidy_dollars": 553029
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 878,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41063,
+      "subsidy_dollars": 223844
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 879,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2007,
+      "fips": 41063,
+      "subsidy_dollars": 4115
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 880,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41063,
+      "subsidy_dollars": 579731
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 881,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41063,
+      "subsidy_dollars": 233287
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 882,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41063,
+      "subsidy_dollars": 219184
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 883,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41063,
+      "subsidy_dollars": 592332
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 884,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41063,
+      "subsidy_dollars": 192831
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 885,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2009,
+      "fips": 41063,
+      "subsidy_dollars": 6822
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 886,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41063,
+      "subsidy_dollars": 572457
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 887,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41063,
+      "subsidy_dollars": 193477
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 888,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41063,
+      "subsidy_dollars": 666927
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 889,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41063,
+      "subsidy_dollars": 220236
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 890,
+    "fields": {
+      "commodity": "Canola",
+      "year": 2011,
+      "fips": 41063,
+      "subsidy_dollars": 8156
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 891,
+    "fields": {
+      "commodity": "Wool",
+      "year": 2011,
+      "fips": 41063,
+      "subsidy_dollars": 5569
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 892,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41063,
+      "subsidy_dollars": 157884
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 893,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2012,
+      "fips": 41063,
+      "subsidy_dollars": 22393
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 894,
+    "fields": {
+      "commodity": "Canola",
+      "year": 2012,
+      "fips": 41063,
+      "subsidy_dollars": 10651
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 895,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2012,
+      "fips": 41063,
+      "subsidy_dollars": 349
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 896,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41065,
+      "subsidy_dollars": 2591624
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 897,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2003,
+      "fips": 41065,
+      "subsidy_dollars": 133790
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 898,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41065,
+      "subsidy_dollars": 2236951
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 899,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41065,
+      "subsidy_dollars": 173288
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 900,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41065,
+      "subsidy_dollars": 2257058
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 901,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41065,
+      "subsidy_dollars": 229877
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 902,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2005,
+      "fips": 41065,
+      "subsidy_dollars": 160763
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 903,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41065,
+      "subsidy_dollars": 2186009
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 904,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41065,
+      "subsidy_dollars": 180444
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 905,
+    "fields": {
+      "commodity": "Mustard Seed",
+      "year": 2006,
+      "fips": 41065,
+      "subsidy_dollars": 636
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 906,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41065,
+      "subsidy_dollars": 2267087
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 907,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41065,
+      "subsidy_dollars": 122856
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 908,
+    "fields": {
+      "commodity": "Mustard Seed",
+      "year": 2007,
+      "fips": 41065,
+      "subsidy_dollars": 778
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 909,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41065,
+      "subsidy_dollars": 2371516
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 910,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41065,
+      "subsidy_dollars": 118869
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 911,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41065,
+      "subsidy_dollars": 51141
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 912,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41065,
+      "subsidy_dollars": 2453652
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 913,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41065,
+      "subsidy_dollars": 84769
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 914,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41065,
+      "subsidy_dollars": 1511935
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 915,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41065,
+      "subsidy_dollars": 60713
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 916,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41065,
+      "subsidy_dollars": 1897630
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 917,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41065,
+      "subsidy_dollars": 64088
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 918,
+    "fields": {
+      "commodity": "Mustard Seed",
+      "year": 2011,
+      "fips": 41065,
+      "subsidy_dollars": 439
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 919,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41065,
+      "subsidy_dollars": 1103336
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 920,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2012,
+      "fips": 41065,
+      "subsidy_dollars": 37061
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 921,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2012,
+      "fips": 41065,
+      "subsidy_dollars": 24463
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 922,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41067,
+      "subsidy_dollars": 1017303
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 923,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41067,
+      "subsidy_dollars": 428465
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 924,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2003,
+      "fips": 41067,
+      "subsidy_dollars": 77346
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 925,
+    "fields": {
+      "commodity": "Apple",
+      "year": 2003,
+      "fips": 41067,
+      "subsidy_dollars": 71405
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 926,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41067,
+      "subsidy_dollars": 783698
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 927,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41067,
+      "subsidy_dollars": 149098
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 928,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41067,
+      "subsidy_dollars": 101166
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 929,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41067,
+      "subsidy_dollars": 844894
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 930,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41067,
+      "subsidy_dollars": 214409
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 931,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41067,
+      "subsidy_dollars": 14001
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 932,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2005,
+      "fips": 41067,
+      "subsidy_dollars": 12253
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 933,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41067,
+      "subsidy_dollars": 786064
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 934,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41067,
+      "subsidy_dollars": 264584
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 935,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41067,
+      "subsidy_dollars": 105159
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 936,
+    "fields": {
+      "commodity": "Dry Pea",
+      "year": 2006,
+      "fips": 41067,
+      "subsidy_dollars": 12724
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 937,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41067,
+      "subsidy_dollars": 793437
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 938,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41067,
+      "subsidy_dollars": 41781
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 939,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41067,
+      "subsidy_dollars": 22541
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 940,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2007,
+      "fips": 41067,
+      "subsidy_dollars": 11091
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 941,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41067,
+      "subsidy_dollars": 793651
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 942,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41067,
+      "subsidy_dollars": 41495
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 943,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2008,
+      "fips": 41067,
+      "subsidy_dollars": 11064
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 944,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41067,
+      "subsidy_dollars": 682113
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 945,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41067,
+      "subsidy_dollars": 509649
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 946,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41067,
+      "subsidy_dollars": 36460
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 947,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41067,
+      "subsidy_dollars": 763054
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 948,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41067,
+      "subsidy_dollars": 38804
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 949,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2010,
+      "fips": 41067,
+      "subsidy_dollars": 23530
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 950,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41067,
+      "subsidy_dollars": 864805
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 951,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41067,
+      "subsidy_dollars": 38381
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 952,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2011,
+      "fips": 41067,
+      "subsidy_dollars": 10550
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 953,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41067,
+      "subsidy_dollars": 6790
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 954,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41067,
+      "subsidy_dollars": 202331
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 955,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41067,
+      "subsidy_dollars": 151917
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 956,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2012,
+      "fips": 41067,
+      "subsidy_dollars": 3404
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 957,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2003,
+      "fips": 41069,
+      "subsidy_dollars": 199158
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 958,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41069,
+      "subsidy_dollars": 25995
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 959,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41069,
+      "subsidy_dollars": 27888
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 960,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2004,
+      "fips": 41069,
+      "subsidy_dollars": 4905
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 961,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41069,
+      "subsidy_dollars": 28212
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 962,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41069,
+      "subsidy_dollars": 6236
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 963,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2005,
+      "fips": 41069,
+      "subsidy_dollars": 22
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 964,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41069,
+      "subsidy_dollars": 31414
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 965,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41069,
+      "subsidy_dollars": 5763
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 966,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2006,
+      "fips": 41069,
+      "subsidy_dollars": 26
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 967,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41069,
+      "subsidy_dollars": 25128
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 968,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2007,
+      "fips": 41069,
+      "subsidy_dollars": 3296
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 969,
+    "fields": {
+      "commodity": "Livestock",
+      "year": 2008,
+      "fips": 41069,
+      "subsidy_dollars": 54307
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 970,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41069,
+      "subsidy_dollars": 26895
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 971,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2008,
+      "fips": 41069,
+      "subsidy_dollars": 3797
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 972,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41069,
+      "subsidy_dollars": 24225
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 973,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2009,
+      "fips": 41069,
+      "subsidy_dollars": 3420
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 974,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2009,
+      "fips": 41069,
+      "subsidy_dollars": 23
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 975,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41069,
+      "subsidy_dollars": 20757
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 976,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2010,
+      "fips": 41069,
+      "subsidy_dollars": 2931
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 977,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2010,
+      "fips": 41069,
+      "subsidy_dollars": 20
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 978,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41069,
+      "subsidy_dollars": 24837
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 979,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41069,
+      "subsidy_dollars": 3507
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 980,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2011,
+      "fips": 41069,
+      "subsidy_dollars": 24
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 981,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41069,
+      "subsidy_dollars": 8625
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 982,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2003,
+      "fips": 41071,
+      "subsidy_dollars": 1202175
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 983,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2003,
+      "fips": 41071,
+      "subsidy_dollars": 297805
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 984,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2003,
+      "fips": 41071,
+      "subsidy_dollars": 78517
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 985,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2004,
+      "fips": 41071,
+      "subsidy_dollars": 1005748
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 986,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2004,
+      "fips": 41071,
+      "subsidy_dollars": 119600
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 987,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2004,
+      "fips": 41071,
+      "subsidy_dollars": 82063
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 988,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2005,
+      "fips": 41071,
+      "subsidy_dollars": 1006964
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 989,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2005,
+      "fips": 41071,
+      "subsidy_dollars": 239935
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 990,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2005,
+      "fips": 41071,
+      "subsidy_dollars": 14624
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 991,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2006,
+      "fips": 41071,
+      "subsidy_dollars": 941034
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 992,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2006,
+      "fips": 41071,
+      "subsidy_dollars": 160914
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 993,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2006,
+      "fips": 41071,
+      "subsidy_dollars": 153001
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 994,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2006,
+      "fips": 41071,
+      "subsidy_dollars": 12441
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 995,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2007,
+      "fips": 41071,
+      "subsidy_dollars": 990674
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 996,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2007,
+      "fips": 41071,
+      "subsidy_dollars": 55380
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 997,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2007,
+      "fips": 41071,
+      "subsidy_dollars": 51049
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 998,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2008,
+      "fips": 41071,
+      "subsidy_dollars": 969586
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 999,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2008,
+      "fips": 41071,
+      "subsidy_dollars": 50698
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1000,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2008,
+      "fips": 41071,
+      "subsidy_dollars": 8208
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1001,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2009,
+      "fips": 41071,
+      "subsidy_dollars": 867146
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1002,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2009,
+      "fips": 41071,
+      "subsidy_dollars": 511870
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1003,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2009,
+      "fips": 41071,
+      "subsidy_dollars": 46090
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1004,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2010,
+      "fips": 41071,
+      "subsidy_dollars": 892799
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1005,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2010,
+      "fips": 41071,
+      "subsidy_dollars": 49317
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1006,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2010,
+      "fips": 41071,
+      "subsidy_dollars": 43646
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1007,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2011,
+      "fips": 41071,
+      "subsidy_dollars": 992238
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1008,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2011,
+      "fips": 41071,
+      "subsidy_dollars": 47544
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1009,
+    "fields": {
+      "commodity": "Barley",
+      "year": 2011,
+      "fips": 41071,
+      "subsidy_dollars": 7716
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1010,
+    "fields": {
+      "commodity": "Dairy",
+      "year": 2012,
+      "fips": 41071,
+      "subsidy_dollars": 251368
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1011,
+    "fields": {
+      "commodity": "Wheat",
+      "year": 2012,
+      "fips": 41071,
+      "subsidy_dollars": 95663
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1012,
+    "fields": {
+      "commodity": "Corn",
+      "year": 2012,
+      "fips": 41071,
+      "subsidy_dollars": 2999
+    }
+  },
+  {
+    "model": "api.subsidydollarstest",
+    "pk": 1013,
+    "fields": {
+      "commodity": "Oat",
+      "year": 2012,
+      "fips": 41071,
+      "subsidy_dollars": 1514
+    }
+  }
+]

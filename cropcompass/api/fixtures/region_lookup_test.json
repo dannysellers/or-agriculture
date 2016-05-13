@@ -1,0 +1,409 @@
+[
+  {
+    "model": "api.regionlookuptest",
+    "pk": 1,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "33",
+      "region": "Josephine",
+      "fips": 41033
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 2,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "15",
+      "region": "Curry",
+      "fips": 41015
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 3,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "29",
+      "region": "Jackson",
+      "fips": 41029
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 4,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "11",
+      "region": "Coos",
+      "fips": 41011
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 5,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "35",
+      "region": "Klamath",
+      "fips": 41035
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 6,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "37",
+      "region": "Lake",
+      "fips": 41037
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 7,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "19",
+      "region": "Douglas",
+      "fips": 41019
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 8,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "25",
+      "region": "Harney",
+      "fips": 41025
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 9,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "39",
+      "region": "Lane",
+      "fips": 41039
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 10,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "17",
+      "region": "Deschutes",
+      "fips": 41017
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 11,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "45",
+      "region": "Malheur",
+      "fips": 41045
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 12,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "13",
+      "region": "Crook",
+      "fips": 41013
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 13,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "3",
+      "region": "Benton",
+      "fips": 41003
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 14,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "43",
+      "region": "Linn",
+      "fips": 41043
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 15,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "31",
+      "region": "Jefferson",
+      "fips": 41031
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 16,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "23",
+      "region": "Grant",
+      "fips": 41023
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 17,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "41",
+      "region": "Lincoln",
+      "fips": 41041
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 18,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "69",
+      "region": "Wheeler",
+      "fips": 41069
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 19,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "53",
+      "region": "Polk",
+      "fips": 41053
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 20,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "1",
+      "region": "Baker",
+      "fips": 41001
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 21,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "47",
+      "region": "Marion",
+      "fips": 41047
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 22,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "71",
+      "region": "Yamhill",
+      "fips": 41071
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 23,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "5",
+      "region": "Clackamas",
+      "fips": 41005
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 24,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "65",
+      "region": "Wasco",
+      "fips": 41065
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 25,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "27",
+      "region": "Hood River",
+      "fips": 41027
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 26,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "51",
+      "region": "Multnomah",
+      "fips": 41051
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 27,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "55",
+      "region": "Sherman",
+      "fips": 41055
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 28,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "67",
+      "region": "Washington",
+      "fips": 41067
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 29,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "57",
+      "region": "Tillamook",
+      "fips": 41057
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 30,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "21",
+      "region": "Gilliam",
+      "fips": 41021
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 31,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "61",
+      "region": "Union",
+      "fips": 41061
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 32,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "49",
+      "region": "Morrow",
+      "fips": 41049
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 33,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "63",
+      "region": "Wallowa",
+      "fips": 41063
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 34,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "59",
+      "region": "Umatilla",
+      "fips": 41059
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 35,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "9",
+      "region": "Columbia",
+      "fips": 41009
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 36,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "7",
+      "region": "Clatsop",
+      "fips": 41007
+    }
+  },
+  {
+    "model": "api.regionlookuptest",
+    "pk": 37,
+    "fields": {
+      "st_code": 41,
+      "state": "OR",
+      "co_code": "0",
+      "region": "Oregon (Statewide)",
+      "fips": 41000
+    }
+  }
+]
